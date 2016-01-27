@@ -1,0 +1,44 @@
+/*Changes made for page 1*/
+body{
+	margin-bottom : 80px;
+}
+
+.navbar-default{
+	background-color : #00ff66;
+}
+
+.navbar-default .navbar-brand{
+	color : black;
+}
+
+.navbar-default .navbar-nav > li > a{
+	color : black;
+}
+
+.jumbotron{
+	background-color : #00cc99;
+}
+
+/*Changes made for page 2*/
+.page-header{
+	margin-top : 0;
+}
+
+.panel-body{
+	padding-top : 0;
+}
+
+.img-thumbnail{
+	border : none;
+}
+
+/*Changes made for page 3*/
+.form-control{
+	font-size: 18px;
+}
+
+.container{
+	margin: auto;
+}
+
+
